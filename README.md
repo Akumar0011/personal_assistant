@@ -89,6 +89,6 @@ The assistant shows visual feedback when it is listening (via the voice GIF) and
 
 Project Files:
 
-index.html: Defines the structure of the page and links to the external CSS and JavaScript files.\n
+index.html: Defines the structure of the page and links to the external CSS and JavaScript files.
 style.css: Provides the styles for the layout, colors, fonts, and animations.
 app.js: Implements the logic for voice commands, speech synthesis, and interactions with external resources.
